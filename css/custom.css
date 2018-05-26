@@ -1,12 +1,11 @@
+﻿html,
+body,
+header,
+#intro {
+    height:100%;
+}
 
-video {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: auto;
-    z-index: -100;
-    background: url(background.jpg) no-repeat;
-    background-size: cover;
-	{
-
+#intro {
+    background: url('background.JPG') no-repeat;
+    background-size:cover;
+}
