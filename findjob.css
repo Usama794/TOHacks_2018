@@ -1,6 +1,5 @@
 body{
 	padding-top:70px;
-	background: url("toronto.jpeg");
 }
 
 input {
@@ -40,8 +39,5 @@ input {
 
 #skills{
 	width: 50%;
-}
-
-textarea{
 
 }
